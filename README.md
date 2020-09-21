@@ -6,7 +6,7 @@ Each element(node) hold an item where pointer is located.
 ## Techology
 Language Used: C
 
-## Set-up
+## Setup
 1) Download all files into a folder.  
 2) Run ```command prompt``` in that folder.  
 3) Run the command **make**.  
