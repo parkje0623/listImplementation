@@ -17,6 +17,7 @@ Language Used: C
 List Commands:
 - Create, Remove, Count, Add, Insert
 - Append, Prepend, Concat, Free, Trim
-- Search, Print  
+- Search, Print 
+
 List Pointer Commands:
 - First, Last, Next, Prev, Curr
